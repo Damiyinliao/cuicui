@@ -4,6 +4,7 @@ export default defineAppConfig({
     'pages/mine/index',
   ],
   window: {
+    navigationStyle: 'custom',
     backgroundTextStyle: 'light',
     navigationBarBackgroundColor: '#fff',
     navigationBarTitleText: 'WeChat',
